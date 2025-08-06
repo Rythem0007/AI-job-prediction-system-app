@@ -12,3 +12,4 @@ python-docx
 sentence-transformers
 PyPDF2
 
+
