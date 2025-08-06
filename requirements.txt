@@ -12,3 +12,4 @@ PyPDF2
 pdfplumber
 python-docx
 plotly
+nltk
