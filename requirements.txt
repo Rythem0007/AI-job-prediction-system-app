@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+torch==2.1.2
+transformers==4.30.2
+tokenizers==0.13.3
+sentencepiece==0.1.99
+pdfplumber
+python-docx
+sentence-transformers
+PyPDF2
